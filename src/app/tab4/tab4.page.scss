@@ -1,0 +1,16 @@
+.profile_card {
+  display: grid;
+  justify-content: center;
+  top: 30%;
+  transform: translate(-50%, -50%);
+  left: 50%;
+  margin: 0;
+  position: absolute;
+}
+
+.profile_title{
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: space-between;
+}
